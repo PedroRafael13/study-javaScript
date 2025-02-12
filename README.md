@@ -1,5 +1,5 @@
-Estudo de JavaScript
-Repositório dedicado ao aprendizado e prática de JavaScript, com exemplos práticos, conceitos fundamentais e recursos avançados.
+<h1>Estudo de JavaScript</h1>
+<p>Repositório dedicado ao aprendizado e prática de JavaScript, com exemplos práticos, conceitos fundamentais e recursos avançados.</p>
 
 📚 Descrição do Projeto
 Este projeto foi criado para:
